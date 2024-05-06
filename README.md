@@ -26,3 +26,9 @@ Implementacija u programskom jeziku Python i Rust
     https://docs.rs/plotters/latest/plotters/
     https://pandas.pydata.org/docs/user_guide/index.html#user-guide
   </pre>
+- Edit
+  <pre>
+    Dataset bi trebao da koristi oko milion podataka koji će se učitavati paralelno i predstaviti naknadno na grafiku
+  </pre>
+  
+</pre>
